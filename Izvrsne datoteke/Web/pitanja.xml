@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kviz>
+	<naslov tekst="eL Test - priprema za vozački ispit" velicina="24" />
+
+	<pitanje>
+		<tekst p="Putnički automobil uključuje se u saobraćaj:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="12" fontBoja="0x000000" odgovorVisina="30"/>
+		<odgovor o="propisno" />
+		<odgovor o="nepropisno, jer je obavezan da propusti teretni automobil" tacno="1" />
+		<odgovor o="propisno, ukoliko ne ometa kretanje motocikla" />
+		<audio url="audio/1.mp3" />
+		<slika url="slike/1.jpg" />
+	</pitanje>
+
+	<pitanje> 
+		<tekst p="Motocikl se kreće:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="propisno, uz razdelnu liniju obeleženu na kolovozu" />
+		<odgovor o="nepropisno" tacno="1" />
+		<odgovor o="propisno, ukoliko se kreće najvećom dozvoljenom brzinom" />
+		<audio url="audio/2.mp3" />
+		<slika url="slike/1.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Vozač teretnog automobila u situaciji prikazanoj na slici:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="dužan je da omogući autobusu da se uključi u saobraćaj" tacno="1" />
+		<odgovor o="ima pravo prvenstva prolaza u odnosu na autobus" />	
+		<odgovor o="dužan je da upotrebi zvučni znak upozorenja" />
+		<audio url="audio/3.mp3" />
+		<slika url="slike/2.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Teretni automobil, u situaciji prikazanoj na istoj slici, kreće se uz desnu ivicu kolovoza:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="propisno" tacno="1" />
+		<odgovor o="nepropisno" />	
+		<odgovor o="nepropisno, osim ako se kreće najmanjom dozvoljenom brzinom" />
+		<audio url="audio/4.mp3" />
+		<slika url="slike/2.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Putnički automobil, u situaciji prikazanoj na slici, pretiče motocikl na mestu gde je to:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="dozvoljeno" tacno="1" />
+		<odgovor o="zabranjeno" />
+		<odgovor o="dozvoljeno samo ako se motocikl kreće izuzetno sporo" />
+		<audio url="audio/5.mp3" />
+		<slika url="slike/3.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Vozač teretnog automobila, u situaciji prikazanoj na istoj slici:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="obavezan je da upotrebi zvučni znak upozorenja" />
+		<odgovor o="dužan je da omogući autobusu uključivanje u saobraćaj" tacno="1" />
+		<odgovor o="obavezan je da se zaustavi ispred stajališta" />
+		<audio url="audio/6.mp3" />
+		<slika url="slike/3.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Vozač autobusa koji se uključuje u saobraćaj sa stajališta u situaciji prikazanoj na slici:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="ima prvenstvo prolaza jer se na njega ne odnose opšta pravila saobraćaja" />
+		<odgovor o="dužan je da propusti putnički automobil" tacno="1" />
+		<odgovor o="obavezan je da vodi računa samo o putnicima" />
+		<audio url="audio/7.mp3" />
+		<slika url="slike/4.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Teretni automobil, u situaciji prikazanoj na slici, kreće se uz desnu ivicu kolovoza:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="propisno" tacno="1" />
+		<odgovor o="nepropisno" />
+		<odgovor o="nepropisno, osim ako oceni da je takav način kretanja bezbedniji" />
+		<audio url="audio/8.mp3" />
+		<slika url="slike/4.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Prvenstvo prolaza, u situaciji prikazanoj na slici ima:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="putnički automobil" tacno="1" />
+		<odgovor o="teretni automobil" />
+		<odgovor o="vozilo koje se kreće većom brzinom" />
+		<audio url="audio/9.mp3" />
+		<slika url="slike/5.jpg" />
+	</pitanje>
+	
+	<pitanje> 
+		<tekst p="Prvenstvo prolaza određeno je:" pitanjeSirina="400" pitanjeVisina="40" fontVelicina="13" fontBoja="0x000000" odgovorVisina="30" />
+		<odgovor o="saobraćajnim znakom" tacno="1" />
+		<odgovor o="pravilima saobraćaja" />
+		<odgovor o="konstrukcionim svojstvima vozila" />
+		<audio url="audio/10.mp3" />
+		<slika url="slike/5.jpg" />
+	</pitanje>
+</kviz>

@@ -1,0 +1,10 @@
+Multimedijalni kviz
+
+Samoinicijativni projekat na temu "eLTest - Flash kviz" koji prikazuje podatke iz XML datoteke pitanja.xml. Kompletnu bazu pitanja i odgovora je moguce napraviti u pomenutom XML fajlu, a sam kviz se lako moze integrisati i u Web stranicu.
+
+Univerzitet u Nisu
+Elektronski fakultet
+Predmet: Multimedijalni sistemi
+Skolska godina: 2009/2010.
+Autor: Stevan Cvetkovic
+Datum: 22. jun 2010.
